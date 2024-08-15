@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Welcome Java</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_to_your_new_online_community">Welcome to your new online community.</string>
+    <string name="get_started">Get Started</string>
+    <string name="todo">TODO</string>
+    <string name="second_screen">Second Screen</string>
+</resources>
